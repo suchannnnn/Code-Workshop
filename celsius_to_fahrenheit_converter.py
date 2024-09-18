@@ -8,6 +8,7 @@ b=(float(a)*9/5)+32
 print(a, "Celsius is equals to", b, "in Fahrenheit")
 
 print("hello world!")
+print("hello test!")
 # Christian R. Sumalinog
 # PS99
 # 11/23/2023
